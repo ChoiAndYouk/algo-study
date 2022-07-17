@@ -13,7 +13,7 @@ public class Main_16236_아기상어 {
 	static int dirY[] = {0, -1, 1, 0};
 	static int arr[][];
 	
-	static class Node{
+	static class Node implements Comparable<Node>{
 		int x;
 		int y;
 		int dist;
@@ -22,6 +22,15 @@ public class Main_16236_아기상어 {
 			this.x = x;
 			this.y = y;
 			this.dist = dist;
+		}
+
+		@Override
+		public int compareTo(Node o) {
+	        if(dist == o.dist) {
+	            if(x == o.x) return Integer.compare(y, o.y);
+	            return Integer.compare(x, o.x);
+	        }
+	        return Integer.compare(dist, o.dist);
 		}
 	} // End of Node
 	
@@ -48,13 +57,7 @@ public class Main_16236_아기상어 {
 	} // End of main
 	
 	private static void BFS(int x, int y) {
-		PriorityQueue<Node> que = new PriorityQueue<>((o1, o2) -> {
-			if(o1.dist == o2.dist) {
-				if(o1.x == o2.x) return Integer.compare(o1.y, o2.y);
-				return Integer.compare(o1.x, o2.x);
-			}
-			return Integer.compare(o1.dist, o2.dist);
-		});
+		PriorityQueue<Node> que = new PriorityQueue<>();
 		
 		boolean visit[][] = new boolean[N][N];
 		que.offer(new Node(x, y, 0));
@@ -75,7 +78,7 @@ public class Main_16236_아기상어 {
 				}
 			}	
 			
-			if( !que.isEmpty() ) {
+			if(!que.isEmpty()) {
 				Node peekNode = que.peek();
 				
 				if(arr[peekNode.x][peekNode.y] < sharkSize && arr[peekNode.x][peekNode.y] > 0) {
