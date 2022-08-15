@@ -1,13 +1,20 @@
 # ChoiAndYouk algo-study
 
 
-## 육슐랭⭐⭐⭐ 선정 좋은 문제
+<details>
+<summary> ## 육슐랭⭐⭐⭐ 선정 좋은 문제 </summary>
+<div markdown="1">
+
 
 **1039 교환**
 - 그래프 탐색, 백트래킹, DP <br>
 https://www.acmicpc.net/problem/1039
 
 평가 : 백트래킹과 DP를 혼용하여 메모이제이션을 구현함으로써 많은 것을 배울 수 있는 좋은 문제이다.
+
+</div>
+</details>
+
 
 
 ---
