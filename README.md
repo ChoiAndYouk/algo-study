@@ -5,7 +5,6 @@
 
 **1039 교환**
 - 그래프 탐색, 백트래킹, DP 
-<br>
 https://www.acmicpc.net/problem/1039
 
 
