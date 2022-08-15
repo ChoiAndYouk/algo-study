@@ -2,7 +2,7 @@
 
 
 <details>
-## <summary> 육슐랭⭐⭐⭐ 선정 좋은 문제 </summary>
+<summary style="font-weight:bold"> 육슐랭⭐⭐⭐ 선정 좋은 문제 </summary>
 <div markdown="1">
 
 
