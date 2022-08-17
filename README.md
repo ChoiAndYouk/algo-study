@@ -18,8 +18,13 @@ https://www.acmicpc.net/problem/1039
 
 
 ---
-## Day1
 
+<details>
+<summary style="color:rgb(40, 140, 300);"> Day1 </summary>
+<div markdown="1">
+
+<br>
+  
 ### BitMasking & Implement
 https://www.acmicpc.net/problem/11723
 
@@ -28,6 +33,12 @@ https://www.acmicpc.net/problem/11286
 
 ### GraphSearch & Simulator
 https://www.acmicpc.net/problem/16236
+
+
+</div>
+</details>
+
+
 
 
 ---
