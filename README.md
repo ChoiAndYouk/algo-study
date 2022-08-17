@@ -38,11 +38,14 @@ https://www.acmicpc.net/problem/16236
 </div>
 </details>
 
-
-
-
 ---
-## Day2
+
+<details>
+<summary style="color:rgb(40, 140, 300);"> Day2 </summary>
+<div markdown="1">
+
+<br>
+  
 
 ### Data Structure
 https://www.acmicpc.net/problem/7662
@@ -53,8 +56,19 @@ https://www.acmicpc.net/problem/1043
 ### GraphSearch
 https://www.acmicpc.net/problem/1167
 
+
+</div>
+</details>
+
+
 ---
-## Day3
+
+<details>
+<summary style="color:rgb(40, 140, 300);"> Day3 </summary>
+<div markdown="1">
+
+<br>
+  
 
 ### DP
 https://www.acmicpc.net/problem/1788
@@ -65,9 +79,19 @@ https://www.acmicpc.net/problem/1038
 ### GraphSearch
 https://www.acmicpc.net/problem/1039
 
----
-## Day4
 
+</div>
+</details>
+
+
+---
+
+<details>
+<summary style="color:rgb(40, 140, 300);"> Day4 </summary>
+<div markdown="1">
+
+<br>
+  
 ### DP
 https://www.acmicpc.net/problem/1904
 
@@ -76,4 +100,31 @@ https://www.acmicpc.net/problem/14629
 
 ### GraphSearch
 https://www.acmicpc.net/problem/5567
+
+</div>
+</details>
+
+---
+
+
+<details>
+<summary style="color:rgb(40, 140, 300);"> Day5 </summary>
+<div markdown="1">
+
+<br>
+  
+### DP
+[https://www.acmicpc.net/problem/2193](https://www.acmicpc.net/problem/2193)
+
+### Backtracking
+[https://www.acmicpc.net/problem/14629](https://www.acmicpc.net/problem/2529)
+
+### GraphSearch
+[https://www.acmicpc.net/problem/5567](https://www.acmicpc.net/problem/5006)
+
+</div>
+</details>
+
+
+
 
