@@ -120,7 +120,7 @@ https://www.acmicpc.net/problem/5567
 [https://www.acmicpc.net/problem/14629](https://www.acmicpc.net/problem/2529)
 
 ### GraphSearch
-[https://www.acmicpc.net/problem/5567](https://www.acmicpc.net/problem/5006)
+[https://www.acmicpc.net/problem/14501](https://www.acmicpc.net/problem/14501)
 
 </div>
 </details>
