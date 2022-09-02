@@ -129,7 +129,7 @@ https://www.acmicpc.net/problem/5567
 ---
 
 <details>
-<summary style="color:rgb(40, 140, 300);"> Day5 </summary>
+<summary style="color:rgb(40, 140, 300);"> Day6 </summary>
 <div markdown="1">
 
 <br>
